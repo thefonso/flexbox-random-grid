@@ -1,3 +1,10 @@
+### Random grid example
+
+Just a basic example to demonstrate what can be done quickly with flexbox. Could be used as a starting point to a more advanced layout.
+
+Uses the nth-child() selector to explicitly set sizes on some of the flex items, but this can be changed to classes if required
+
+```html
 <!doctype html>
 <title>Example</title>
 <style>
@@ -51,3 +58,4 @@ body {
   <div></div>
   <div></div>
 </div>
+```
